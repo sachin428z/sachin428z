@@ -19,9 +19,9 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=phulkeshwar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/phulkeshwar?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/sachin?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
   &nbsp;
@@ -40,7 +40,7 @@
 👤 name        : Sachin
 🏫 college     : NIAMT Ranchi (B.Tech Computer Science, 2024 → 2028)
 📍 location    : Ranchi, Jharkhand, India 🇮🇳
-💼 role        : Full Stack Web Developer (MERN)
+💼 role        : Full Stack Web Developer (MERN) && Machine Learning
 
 🌱 learning    :
   - WebRTC | Redis | Socket.io | System Design
@@ -49,7 +49,7 @@
 ⚡ interests   : Backend • REST APIs • Real-Time Systems • Open Source
 
 🤝 open_to     : Internships • Freelance • Open Source Collaboration
-📫 contact     : phulkeshwar.e@gmail.com
+📫 contact     : sachin3434z@gmail.com
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -97,7 +97,7 @@
 |:---|:---|:---|:---:|
 | 🏎️ **NIAMT Racing** | Official Formula Student Team Website with Cloudinary CDN & SEO | `MERN` `Cloudinary` `Railway` `Vercel` | [niamtracing.in](https://niamtracing.in) |
 | 📞 **Call.io** | Anonymous real-time WebRTC calling & chat, Redis-backed for ~100k users | `WebRTC` `Redis` `Socket.io` `Node.js` | [callrandom.vercel.app](https://callrandom.vercel.app) |
-| 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://phulkeshwar.vercel.app/) |
+| 🌐 **MyPortfolio** | Personal portfolio showcasing projects & skills, deployed on GitHub Pages | `HTML` `CSS` `JavaScript` | [View →](https://sachin.vercel.app/) |
 | ✈️ **MedScribe-AI** | AI-Powered Clinical Assistant — Built for the Gemma 4 Good Hackathon (Kaggle × Google DeepMind) | `MERN` `CSS` `JavaScript` | [View →](https://medscribe-ai-ruby.vercel.app/) |
 
 </div>
@@ -127,9 +127,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulkeshwar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachin&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/phulkeshwar/phulkeshwar/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/sachin/sachin/output/github-snake.svg" />
 
 </div>
 
@@ -158,7 +158,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwar&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -168,7 +168,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -179,19 +179,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phulkeshwar&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin&theme=tokyonight" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phulkeshwar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin&theme=tokyonight" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phulkeshwar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phulkeshwar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin&theme=tokyonight" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phulkeshwar&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -215,22 +215,22 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phulkeshwar)
+[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phulkeshwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-phulkeshwar-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://phulkeshwar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phulkeshwar-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phulkeshwar.e@gmail.com)
-[![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phulkeshwar2005)
+[![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z.e@gmail.com)
+[![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachin2005)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/phulkeshwar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-phulkeshwar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/phulkeshwar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-phulkeshwar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sachin)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarmahto2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phulkeshwarmahto2005)
+[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarmahto2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sachin2005)
 &nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-phulkeshwar-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/phulkeshwar)
+[![Codolio](https://img.shields.io/badge/Codolio-phulkeshwar-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/sachin)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
