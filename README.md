@@ -19,9 +19,9 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin428z&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sachin?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/sachin428z?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
   &nbsp;
@@ -37,7 +37,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```yaml
-👤 name        : Sachin
+👤 name        : Sachin Kumar Gupta
 🏫 college     : NIAMT Ranchi (B.Tech Computer Science, 2024 → 2028)
 📍 location    : Ranchi, Jharkhand, India 🇮🇳
 💼 role        : Full Stack Web Developer (MERN) && Machine Learning
@@ -215,13 +215,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
+[![GitHub](https://img.shields.io/badge/GitHub-sachin428z-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-sachin3434z.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z.e@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sachin3434z@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z@gmail.com)
 [![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachin2005)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-sachin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin)
