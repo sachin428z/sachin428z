@@ -4,7 +4,7 @@
 <!--                     ANIMATED HEADER WAVE                       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phulkeshwar%20Mahto&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin%20Mahto&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sachin/sachin/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/sachin428z/sachin428z/output/github-snake.svg" />
 
 </div>
 
@@ -158,7 +158,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin428z&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -168,7 +168,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin428z&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin428z&theme=tokyonight" width="100%" />
 
 <br/>
 
@@ -189,9 +189,9 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin428z&theme=tokyonight" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin428z&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -217,20 +217,20 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-phulkeshwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phulkeshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-phulkeshwar-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sachin-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-phulkeshwar.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z.e@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sachin3434z.e@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z.e@gmail.com)
 [![X](https://img.shields.io/badge/X-@phulkeshwar2005-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachin2005)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-phulkeshwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sachin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-phulkeshwar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sachin)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sachin-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sachin)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@phulkeshwarmahto2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sachin2005)
+[![Instagram](https://img.shields.io/badge/Instagram-@sachin428z-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sachin2005)
 &nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-phulkeshwar-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/sachin)
+[![Codolio](https://img.shields.io/badge/Codolio-sachin428z-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/sachin)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
