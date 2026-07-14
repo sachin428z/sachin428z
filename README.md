@@ -4,7 +4,7 @@
 <!--                     ANIMATED HEADER WAVE                       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin%20Mahto&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
