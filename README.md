@@ -4,7 +4,7 @@
 <!--                     ANIMATED HEADER WAVE                       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sachin&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Science%20&%20Engineering%20%40%20NIAMT%20Ranchi&descSize=17&descAlignY=60&descColor=94A3B8&animation=twinkling" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
@@ -37,19 +37,19 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```yaml
-👤 name        : Sachin Kumar Gupta
-🏫 college     : NIAMT Ranchi (B.Tech Computer Science, 2024 → 2028)
-📍 location    : Ranchi, Jharkhand, India 🇮🇳
-💼 role        : Full Stack Web Developer (MERN) && Machine Learning
+👤 Name        : Sachin Kumar Gupta
+🏫 College     : NIAMT Ranchi (B.Tech Computer Science, 2024 → 2028)
+📍 Location    : Ranchi, Jharkhand, India 🇮🇳
+💼 Role        : Full Stack Web Developer (MERN) && Machine Learning
 
-🌱 learning    :
+🌱 Learning    :
   - WebRTC | Redis | Socket.io | System Design
   - TypeScript | Docker | CI/CD
 
-⚡ interests   : Backend • REST APIs • Real-Time Systems • Open Source
+⚡ Interests   : Backend • REST APIs • Real-Time Systems • Open Source
 
-🤝 open_to     : Internships • Freelance • Open Source Collaboration
-📫 contact     : sachin3434z@gmail.com
+🤝 Open_to     : Internships • Freelance • Open Source Collaboration
+📫 Contact     : sachin3434z@gmail.com
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
