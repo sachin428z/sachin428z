@@ -37,8 +37,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```yaml
-👤 name        : Phulkeshwar Mahto
-🏫 college     : NIAMT Ranchi (B.Tech Computer Engineering, 2024 → 2028)
+👤 name        : Sachin
+🏫 college     : NIAMT Ranchi (B.Tech Computer Science, 2024 → 2028)
 📍 location    : Ranchi, Jharkhand, India 🇮🇳
 💼 role        : Full Stack Web Developer (MERN)
 
