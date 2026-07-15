@@ -23,7 +23,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/sachin428z?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looking%20for-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Ranchi%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -48,7 +48,7 @@
 
 ⚡ Interests   : Backend • REST APIs • Real-Time Systems • Open Source
 
-🤝 Open_to     : Internships • Freelance • Open Source Collaboration
+🤝 Looking_for : Internships • Freelance • Open Source Collaboration
 📫 Contact     : sachin3434z@gmail.com
 ```
 
