@@ -10,7 +10,7 @@
 <!--                     TYPING ANIMATION                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Web+Developer+%F0%9F%9A%80;WebRTC+%7C+Redis+%7C+Socket.io+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Building+Scalable%2C+Real-World+Apps+%F0%9F%8C%90;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Web+Developer+%F0%9F%9A%80;WebRTC+%7C+Redis+%7C+Socket.io+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Building+Scalable%2C+Real-World+Apps+%F0%9F%8C%90;Looking+for+Internships+%26+Open+Source+Contributions+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
