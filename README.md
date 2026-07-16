@@ -112,7 +112,7 @@
 
 | Area | Progress |
 |:---|:---|
-| 🧠 DSA — Striver A2Z Sheet (C++) |
+| 🧠 DSA |
 | ⚛️ React + TypeScript | `███████░░░` Advancing |
 | 🔴 Redis + Socket.io (Scaling) | `██████░░░░` Building |
 | 🐳 Docker & CI/CD | `████░░░░░░` Learning |
