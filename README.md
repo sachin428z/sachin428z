@@ -215,14 +215,14 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sachin428z-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
+[![GitHub](https://img.shields.io/badge/GitHub-sachin428zzzz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin428z)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sachin3434z@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin3434z@gmail.com)
-[![X](https://img.shields.io/badge/X-@ph5-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachin2005)
+[![X](https://img.shields.io/badge/X-@sh5-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachin2005)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-sachin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin)
 &nbsp;
@@ -230,7 +230,7 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@sachin428z-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sachin2005)
 &nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-sachin428z-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolioin)
+[![Codolio](https://img.shields.io/badge/Codolio-sachin428z-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codoloin)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
